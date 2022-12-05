@@ -1,5 +1,5 @@
 # Bird Rotterdam
-> This project was about how my team and I could enhance the experience of a remote performance with an AR / VR / physical prototype.
+> This project was a website to support the virtual reality chatroom my team and I were building for BIRD Rotterdam.
 > Link: https://youtu.be/4yl3fsPQ8Hc
 
 ## Table of Contents
@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General Information
-- This project was a school assignment to come up with a concept/prototype for Bird Rotterdam.
+- This project was a school assignment to enhance the experience of the public / clients of BIRD Rotterdam remotely using a VR prototype.
 - The prototype was a virtual reality of BIRD were the customers could "go to the club digitally" and interact with other users from their homes.
 - Also there were different types of mini-game available for the users. e.g. ping pong, chess and more so they could interact with each other.
 
